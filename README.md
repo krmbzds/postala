@@ -16,4 +16,4 @@ Tested with `jruby-9.0.4.0`. Requires the `gmail` gem. It is recommended to ins
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
 
-[screenshot]: http://i.imgur.com/LM4wL5Y.png
+[screenshot]: http://i.imgur.com/SH14uPH.png
