@@ -1,4 +1,4 @@
-# Postala
+# Postala [![Code Climate](https://codeclimate.com/github/krmbzds/postala/badges/gpa.svg)](https://codeclimate.com/github/krmbzds/postala)
 
 Send email to multiple recipients from your Gmail account.
 
